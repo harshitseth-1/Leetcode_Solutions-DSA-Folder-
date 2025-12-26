@@ -1,4 +1,4 @@
-# Leetcode_Solutions-DSA-Practice
+# Leetcode_Solutions-DSA-Folder
 My personal collection of LeetCode problem solutions, documented for learning and interview preparation.
 💻 Data Structures &amp; Algorithms | FAANG Interview Preparation | Optimized Solutions.
 # LeetCode Solutions 💻
