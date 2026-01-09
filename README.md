@@ -11,4 +11,5 @@ My personal collection of LeetCode problem solutions.
 - **Medium**: 
 - **Hard**:
 - 
-**Note**: Solutions are written in C++ and Java.
+**Note**: Solutions are written in C++ and Java.(Harshit seth)
+
